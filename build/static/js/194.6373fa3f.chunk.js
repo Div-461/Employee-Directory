@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkemployee_directory=self.webpackChunkemployee_directory||[]).push([[194],{194:(e,t,r)=>{r.r(t),r.d(t,{default:()=>n});r(43);var s=r(475),c=r(579);const n=function(){return(0,c.jsxs)("div",{className:"text-center",children:[(0,c.jsx)("h3",{children:"Not Found..."}),(0,c.jsx)(s.N_,{to:"/",className:"btn btn-danger",children:"Back to dashboard"})]})}}}]);
+//# sourceMappingURL=194.6373fa3f.chunk.js.map

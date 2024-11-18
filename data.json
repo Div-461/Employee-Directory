@@ -1,0 +1,2602 @@
+{
+    "Employees": [
+        {
+            "department": "IT",
+            "displayName": "Abhay Singh",
+            "givenName": "Abhay",
+            "jobTitle": "Sr. IT Admin",
+            "mail": "abhay.singh@binaryrepublik.com",
+            "userPrincipalName": "abhay.singh@binaryrepublik.com",
+            "mobilePhone": "8866159343",
+            "officeLocation": null,
+            "surname": "Singh",
+            "businessPhones": [
+                "4703950250 (EXT-270)"
+            ]
+        },
+        {
+            "department": "IT",
+            "displayName": "Abhishek Jain",
+            "givenName": "Abhishek",
+            "jobTitle": "Software Developer",
+            "mail": "abhishek.jain@binaryrepublik.com",
+            "userPrincipalName": "abhishek.jain@binaryrepublik.com",
+            "mobilePhone": "9680199972",
+            "officeLocation": null,
+            "surname": "Jain",
+            "businessPhones": [
+                "4703950250"
+            ]
+        },
+        {
+            "department": "IT",
+            "displayName": "Aditya Acharya",
+            "givenName": "Aditya",
+            "jobTitle": "Software Developer",
+            "mail": "aditya.acharya@binaryrepublik.com",
+            "userPrincipalName": "aditya.acharya@binaryrepublik.com",
+            "mobilePhone": "9558254481",
+            "officeLocation": null,
+            "surname": "Acharya",
+            "businessPhones": [
+                "4703950250"
+            ]
+        },
+        {
+            "department": null,
+            "displayName": "Admin BR",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "admin@brsupport.onmicrosoft.com",
+            "userPrincipalName": "admin_brsupport.onmicrosoft.com#EXT#@BinaryRepublik516.onmicrosoft.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "Aehsanulhaque Shaikh",
+            "givenName": "Aehsanulhaque",
+            "jobTitle": "Salesforce Developer",
+            "mail": "aehsanulhaque.shaikh@binaryrepublik.com",
+            "userPrincipalName": "aehsanulhaque.shaikh@binaryrepublik.com",
+            "mobilePhone": "8460283329",
+            "officeLocation": null,
+            "surname": "Shaikh",
+            "businessPhones": [
+                "4703950250"
+            ]
+        },
+        {
+            "department": "HR",
+            "displayName": "Aesha Joshi",
+            "givenName": "Aesha",
+            "jobTitle": "HR Recruiter",
+            "mail": "aesha.joshi@binaryrepublik.com",
+            "userPrincipalName": "aesha.joshi@binaryrepublik.com",
+            "mobilePhone": "+91 9909950592",
+            "officeLocation": null,
+            "surname": "Joshi",
+            "businessPhones": []
+        },
+        {
+            "department": null,
+            "displayName": "Aman  Ghrmai",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "amang@axcendconsulting.com",
+            "userPrincipalName": "amang_axcendconsulting.com#EXT#@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "Ami Pandya",
+            "givenName": "Ami",
+            "jobTitle": "Intern",
+            "mail": "ami.pandya@binaryrepublik.com",
+            "userPrincipalName": "ami.pandya@binaryrepublik.com",
+            "mobilePhone": "7201831733",
+            "officeLocation": null,
+            "surname": "Pandya",
+            "businessPhones": []
+        },
+        {
+            "department": "HR",
+            "displayName": "Amit Patil",
+            "givenName": "Amit",
+            "jobTitle": "Manager - HR/Admin",
+            "mail": "amit.patil@binaryrepublik.com",
+            "userPrincipalName": "amit.patil@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": "Patil",
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "Amit Rajput",
+            "givenName": "Amit",
+            "jobTitle": "QA",
+            "mail": "amit.rajput@binaryrepublik.com",
+            "userPrincipalName": "amit.rajput@binaryrepublik.com",
+            "mobilePhone": "8238433451",
+            "officeLocation": null,
+            "surname": "Rajput",
+            "businessPhones": [
+                "4703950250"
+            ]
+        },
+        {
+            "department": null,
+            "displayName": "Amit Thakkar",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "amit.thakkar06@hotmail.com",
+            "userPrincipalName": "amit.thakkar06_hotmail.com#EXT#@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "Amit Thakkar",
+            "givenName": "Amit",
+            "jobTitle": "Project Manager",
+            "mail": "amit@BinaryRepublik516.onmicrosoft.com",
+            "userPrincipalName": "amit@binaryrepublik.com",
+            "mobilePhone": "9898224409",
+            "officeLocation": null,
+            "surname": "Thakkar",
+            "businessPhones": [
+                "4703950250 (EXT 261)"
+            ]
+        },
+        {
+            "department": null,
+            "displayName": "Amit Thakkar",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "amit@cloudev.com.au",
+            "userPrincipalName": "amit_cloudev.com.au#EXT#@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": null,
+            "displayName": "Anders Mørland",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "anders.morland@viewledger.com",
+            "userPrincipalName": "anders.morland_viewledger.com#EXT#@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": null,
+            "displayName": "Andrew Rajcoomar",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "AndrewR@frankcrum.com",
+            "userPrincipalName": "AndrewR_frankcrum.com#EXT#@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": null,
+            "displayName": "AngieG",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "AngieG@frankcrum.com",
+            "userPrincipalName": "AngieG_frankcrum.com#EXT#@BinaryRepublik516.onmicrosoft.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "Aniket Chauhan",
+            "givenName": "Aniket",
+            "jobTitle": "Jr. Software Developer",
+            "mail": "aniket.chauhan@binaryrepublik.com",
+            "userPrincipalName": "aniket.chauhan@binaryrepublik.com",
+            "mobilePhone": "7201911820",
+            "officeLocation": null,
+            "surname": "Chauhan",
+            "businessPhones": []
+        },
+        {
+            "department": null,
+            "displayName": "Anish Patel",
+            "givenName": "Anish",
+            "jobTitle": null,
+            "mail": "anish.patel@binaryrepublik.com",
+            "userPrincipalName": "anish.patel@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": "Patel",
+            "businessPhones": []
+        },
+        {
+            "department": null,
+            "displayName": "ano mepani",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "ano_mepani@hotmail.com",
+            "userPrincipalName": "ano_mepani_hotmail.com#EXT#@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": null,
+            "displayName": "Piyush Patel",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "Appatel84@hotmail.com",
+            "userPrincipalName": "appatel84_hotmail.com#EXT#@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": null,
+            "displayName": "Arpit Patel",
+            "givenName": "Arpit",
+            "jobTitle": null,
+            "mail": "arpit.patel@binaryrepublik.com",
+            "userPrincipalName": "arpit.patel@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": "Patel",
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "ArvindKumar Mepani",
+            "givenName": "ArvindKumar",
+            "jobTitle": "Team Lead",
+            "mail": "arvind.mepani@binaryrepublik.com",
+            "userPrincipalName": "arvind.mepani@binaryrepublik.com",
+            "mobilePhone": "9924504188",
+            "officeLocation": null,
+            "surname": "Mepani",
+            "businessPhones": [
+                "4703950250"
+            ]
+        },
+        {
+            "department": null,
+            "displayName": "arvindmepani",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "arvindmepani@gmail.com",
+            "userPrincipalName": "arvindmepani_gmail.com#EXT#@BinaryRepublik516.onmicrosoft.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "Avani Chaugule",
+            "givenName": "Avani",
+            "jobTitle": "Sharepoint Developer",
+            "mail": "avani.chaugule@binaryrepublik.com",
+            "userPrincipalName": "avani.chaugule@binaryrepublik.com",
+            "mobilePhone": "9558911077",
+            "officeLocation": null,
+            "surname": "Chaugule",
+            "businessPhones": [
+                "4703950250"
+            ]
+        },
+        {
+            "department": null,
+            "displayName": "Ayyappan, Manjubashini (Manju)",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "ayyappanm@cdmsmith.com",
+            "userPrincipalName": "ayyappanm_cdmsmith.com#EXT#@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "Bharat Khunti",
+            "givenName": "Bharat",
+            "jobTitle": "Software Developer",
+            "mail": "bharat.khunti@binaryrepublik.com",
+            "userPrincipalName": "bharat.khunti@binaryrepublik.com",
+            "mobilePhone": "8141199468",
+            "officeLocation": null,
+            "surname": "Khunti",
+            "businessPhones": [
+                "4703950250"
+            ]
+        },
+        {
+            "department": "IT",
+            "displayName": "Bhavin Nandaniya",
+            "givenName": "Bhavin",
+            "jobTitle": "Intern",
+            "mail": "bhavin.nandaniya@binaryrepublik.com",
+            "userPrincipalName": "bhavin.nandaniya@binaryrepublik.com",
+            "mobilePhone": "8200030710",
+            "officeLocation": null,
+            "surname": "Nandaniya",
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "Binal Rana",
+            "givenName": "Binal",
+            "jobTitle": "Software Developer",
+            "mail": "binal.rana@binaryrepublik.com",
+            "userPrincipalName": "binal.rana@binaryrepublik.com",
+            "mobilePhone": "7600199436",
+            "officeLocation": null,
+            "surname": "Rana",
+            "businessPhones": []
+        },
+        {
+            "department": null,
+            "displayName": "Binary Republik",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "binaryrepublik@outlook.com",
+            "userPrincipalName": "binaryrepublik_outlook.com#EXT#@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": "HR",
+            "displayName": "Bipin Patel",
+            "givenName": "Bipin",
+            "jobTitle": "Accounts Executive",
+            "mail": "bipin.patel@binaryrepublik.com",
+            "userPrincipalName": "bipin.patel@binaryrepublik.com",
+            "mobilePhone": "+91 9825741259",
+            "officeLocation": "+1 470 395 0250",
+            "surname": "Patel",
+            "businessPhones": []
+        },
+        {
+            "department": null,
+            "displayName": "Nayan Dadwani",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "br_nayan.dadwani@outlook.com",
+            "userPrincipalName": "br_nayan.dadwani_outlook.com#EXT#@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": null,
+            "displayName": "Parth Thakkar",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "br_parth.thakkar@outlook.com",
+            "userPrincipalName": "br_parth.thakkar_outlook.com#EXT#@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "BR TEAM",
+            "givenName": "BR",
+            "jobTitle": "BR Consultant",
+            "mail": "Brteam@binaryrepublik.com",
+            "userPrincipalName": "brteam@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": "TEAM",
+            "businessPhones": []
+        },
+        {
+            "department": null,
+            "displayName": "Burton, Laura",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "burtonlm@cdmsmith.com",
+            "userPrincipalName": "Burtonlm_cdmsmith.com#EXT#@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": null,
+            "displayName": "camilla.okshovd@fluidogroup.com",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "camilla.okshovd@fluidogroup.com",
+            "userPrincipalName": "camilla.okshovd_fluidogroup.com#EXT#@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "Chandni Mehta",
+            "givenName": "Chandni",
+            "jobTitle": "Sr. Sharepoint Developer",
+            "mail": "chandni.mehta@binaryrepublik.com",
+            "userPrincipalName": "chandni.mehta@binaryrepublik.com",
+            "mobilePhone": "9427988767",
+            "officeLocation": null,
+            "surname": "Mehta",
+            "businessPhones": [
+                "4703950250"
+            ]
+        },
+        {
+            "department": "IT",
+            "displayName": "Chandrika Prajapati",
+            "givenName": "Chandrika",
+            "jobTitle": "Principal Developer",
+            "mail": "chandrika@binaryrepublik.com",
+            "userPrincipalName": "chandrika@binaryrepublik.com",
+            "mobilePhone": "9824405660",
+            "officeLocation": null,
+            "surname": "Prajapati",
+            "businessPhones": [
+                "4703950250 (EXT 265)"
+            ]
+        },
+        {
+            "department": null,
+            "displayName": "Chan, Justin H.",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "chanjh@cdmsmith.com",
+            "userPrincipalName": "chanjh_cdmsmith.com#EXT#@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "Chirag Parmar",
+            "givenName": "Chirag",
+            "jobTitle": "Sr. Software Developer",
+            "mail": "chirag.parmar@binaryrepublik.com",
+            "userPrincipalName": "chirag.parmar@binaryrepublik.com",
+            "mobilePhone": "9722516325",
+            "officeLocation": null,
+            "surname": "Parmar",
+            "businessPhones": [
+                "4703950250"
+            ]
+        },
+        {
+            "department": "HR",
+            "displayName": "Chitra Kiri",
+            "givenName": "Chitra",
+            "jobTitle": "Manager - HR/Admin",
+            "mail": "chitra@binaryrepublik.com",
+            "userPrincipalName": "chitra@binaryrepublik.com",
+            "mobilePhone": "+91 9909950592",
+            "officeLocation": null,
+            "surname": "Kiri",
+            "businessPhones": [
+                "+91 2717 298100"
+            ]
+        },
+        {
+            "department": null,
+            "displayName": "Cory Monteleone-Haught",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "cmontele@rcsj.edu",
+            "userPrincipalName": "cmontele_rcsj.edu#EXT#@BinaryRepublik516.onmicrosoft.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "Conf - Laptop (HP)",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "conf.laptop@binaryrepublik.com",
+            "userPrincipalName": "conf.laptop@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": null,
+            "displayName": "Chris Waggoner",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "CWaggoner@frankcrum.com",
+            "userPrincipalName": "CWaggoner_frankcrum.com#EXT#@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": null,
+            "displayName": "Dag Ove Valsgaard",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "Dag.valsgaard@viewledger.com",
+            "userPrincipalName": "dag.valsgaard_viewledger.com#EXT#@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": null,
+            "displayName": "Danny Yehya",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "danny.yehya@sixconsultingcorp.com",
+            "userPrincipalName": "danny.yehya_sixconsultingcorp.com#EXT#@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "Darshana Somani",
+            "givenName": "Darshana",
+            "jobTitle": "Lead Developer",
+            "mail": "darshana.somani@binaryrepublik.com",
+            "userPrincipalName": "darshana.somani@binaryrepublik.com",
+            "mobilePhone": "8460103830",
+            "officeLocation": null,
+            "surname": "Somani",
+            "businessPhones": [
+                "4703950250"
+            ]
+        },
+        {
+            "department": "IT",
+            "displayName": "David Remillard",
+            "givenName": "David",
+            "jobTitle": null,
+            "mail": "david.remillard@binaryrepublik.com",
+            "userPrincipalName": "david.remillard@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": "Remillard",
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "Deepak Geriani",
+            "givenName": "Deepak",
+            "jobTitle": "Software Developer",
+            "mail": "deepak.geriani@binaryrepublik.com",
+            "userPrincipalName": "deepak.geriani@binaryrepublik.com",
+            "mobilePhone": "7405452619",
+            "officeLocation": null,
+            "surname": "Geriani",
+            "businessPhones": []
+        },
+        {
+            "department": null,
+            "displayName": "Demo User",
+            "givenName": "Demo",
+            "jobTitle": null,
+            "mail": "demo@binaryrepublik.com",
+            "userPrincipalName": "demo@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": "User",
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "Densi Gohel",
+            "givenName": "Densi",
+            "jobTitle": "Intern",
+            "mail": "densi.gohel@binaryrepublik.com",
+            "userPrincipalName": "densi.gohel@binaryrepublik.com",
+            "mobilePhone": "9276356133",
+            "officeLocation": null,
+            "surname": "Gohel",
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "Devang Patel",
+            "givenName": "Devang",
+            "jobTitle": "Software Developer",
+            "mail": "devang.patel@binaryrepublik.com",
+            "userPrincipalName": "devang.patel@binaryrepublik.com",
+            "mobilePhone": "7043400960",
+            "officeLocation": null,
+            "surname": "Patel",
+            "businessPhones": [
+                "470390250"
+            ]
+        },
+        {
+            "department": "IT",
+            "displayName": "Devang Raval",
+            "givenName": "Devang",
+            "jobTitle": "UX Designer",
+            "mail": "devang.raval@binaryrepublik.com",
+            "userPrincipalName": "devang.raval@binaryrepublik.com",
+            "mobilePhone": "9714931078",
+            "officeLocation": null,
+            "surname": "Raval",
+            "businessPhones": [
+                "4703950250"
+            ]
+        },
+        {
+            "department": "IT",
+            "displayName": "Devanshi Chudasama",
+            "givenName": "Devanshi",
+            "jobTitle": "Intern",
+            "mail": "devanshi.chudasama@binaryrepublik.com",
+            "userPrincipalName": "devanshi.chudasama@binaryrepublik.com",
+            "mobilePhone": "8200314272",
+            "officeLocation": null,
+            "surname": "Chudasama",
+            "businessPhones": []
+        },
+        {
+            "department": null,
+            "displayName": "Devon Murray",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "devonm@frankcrum.com",
+            "userPrincipalName": "devonm_frankcrum.com#EXT#@BinaryRepublik516.onmicrosoft.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": "HR",
+            "displayName": "Devshree Vaishnav",
+            "givenName": "Devshree",
+            "jobTitle": "HR Recruiter",
+            "mail": "devshree.vaishnav@binaryrepublik.com",
+            "userPrincipalName": "devshree.vaishnav@binaryrepublik.com",
+            "mobilePhone": "9712998257",
+            "officeLocation": null,
+            "surname": "Vaishnav",
+            "businessPhones": []
+        },
+        {
+            "department": null,
+            "displayName": "Dhalait, Babu A.",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "dhalaitba@cdmsmith.com",
+            "userPrincipalName": "dhalaitba_cdmsmith.com#EXT#@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "Dhaval Nayi",
+            "givenName": "Dhaval",
+            "jobTitle": "Sr. Software Developer",
+            "mail": "dhaval.nayi@binaryrepublik.com",
+            "userPrincipalName": "dhaval.nayi@binaryrepublik.com",
+            "mobilePhone": "9725390585",
+            "officeLocation": null,
+            "surname": "Nayi",
+            "businessPhones": [
+                "4703950250"
+            ]
+        },
+        {
+            "department": "IT",
+            "displayName": "Dhruvik Togadiya",
+            "givenName": "Dhruvik",
+            "jobTitle": "Trainee Developer",
+            "mail": "dhruvik.togadiya@binaryrepublik.com",
+            "userPrincipalName": "dhruvik.togadiya@binaryrepublik.com",
+            "mobilePhone": "9408860370",
+            "officeLocation": null,
+            "surname": "Togadiya",
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "Dhruvin Shah",
+            "givenName": "Dhruvin",
+            "jobTitle": "Lead Developer",
+            "mail": "dhruvin.shah@binaryrepublik.com",
+            "userPrincipalName": "dhruvin.shah@binaryrepublik.com",
+            "mobilePhone": "9537981467",
+            "officeLocation": null,
+            "surname": "Shah",
+            "businessPhones": [
+                "4703950250"
+            ]
+        },
+        {
+            "department": "IT",
+            "displayName": "Dimple Pille",
+            "givenName": "Dimple",
+            "jobTitle": "SharePoint Developer",
+            "mail": "dimple.pille@binaryrepublik.com",
+            "userPrincipalName": "dimple.pille@binaryrepublik.com",
+            "mobilePhone": "7698297969",
+            "officeLocation": null,
+            "surname": "Pille",
+            "businessPhones": [
+                "4703950250"
+            ]
+        },
+        {
+            "department": "IT",
+            "displayName": "Dipti Kalaria",
+            "givenName": "Dipti",
+            "jobTitle": "Sr. Salesforce Developer",
+            "mail": "dipti.kalaria@binaryrepublik.com",
+            "userPrincipalName": "dipti.kalaria@binaryrepublik.com",
+            "mobilePhone": "9825225251",
+            "officeLocation": null,
+            "surname": "Kalaria",
+            "businessPhones": [
+                "4703950250"
+            ]
+        },
+        {
+            "department": null,
+            "displayName": "Elena Gorder",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "elena.gorder@viewledger.com",
+            "userPrincipalName": "elena.gorder_viewledger.com#EXT#@BinaryRepublik516.onmicrosoft.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "Hardik Gondalia",
+            "givenName": "Hardik",
+            "jobTitle": "Lead Developer",
+            "mail": "hardik.gondalia@binaryrepublik.com",
+            "userPrincipalName": "hardik.gondalia@binaryrepublik.com",
+            "mobilePhone": "8469224562",
+            "officeLocation": null,
+            "surname": "Gondalia",
+            "businessPhones": [
+                "4703950250"
+            ]
+        },
+        {
+            "department": "IT",
+            "displayName": "Hardik Patel",
+            "givenName": "Hardik",
+            "jobTitle": "Sr. QA",
+            "mail": "hardik@binaryrepublik.com",
+            "userPrincipalName": "hardik@binaryrepublik.com",
+            "mobilePhone": "9601945589",
+            "officeLocation": null,
+            "surname": "Patel",
+            "businessPhones": [
+                "4703950250 (EXT 267)"
+            ]
+        },
+        {
+            "department": "IT",
+            "displayName": "Harsh Patel",
+            "givenName": "Harsh",
+            "jobTitle": "Jr. Software Developer",
+            "mail": "harsh.patel@binaryrepublik.com",
+            "userPrincipalName": "harsh.patel@binaryrepublik.com",
+            "mobilePhone": "7622933477",
+            "officeLocation": null,
+            "surname": "Patel",
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "Harshad Tretiya",
+            "givenName": "Harshad",
+            "jobTitle": "Jr. Software Developer",
+            "mail": "harshad.tretiya@binaryrepublik.com",
+            "userPrincipalName": "harshad.tretiya@binaryrepublik.com",
+            "mobilePhone": "9067664937",
+            "officeLocation": null,
+            "surname": "Tretiya",
+            "businessPhones": []
+        },
+        {
+            "department": null,
+            "displayName": "Hemant Kabra",
+            "givenName": "Hemant",
+            "jobTitle": null,
+            "mail": "hemant.kabra@binaryrepublik.com",
+            "userPrincipalName": "hemant.kabra@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": "Kabra",
+            "businessPhones": []
+        },
+        {
+            "department": null,
+            "displayName": "Hetal Parmar",
+            "givenName": "Hetal",
+            "jobTitle": null,
+            "mail": "hetal@binaryrepublik.com",
+            "userPrincipalName": "hetal@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": "Parmar",
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "Hiren Thesiya",
+            "givenName": "Hiren",
+            "jobTitle": "Software Developer",
+            "mail": "hiren.thesiya@binaryrepublik.com",
+            "userPrincipalName": "hiren.thesiya@binaryrepublik.com",
+            "mobilePhone": "9426553370",
+            "officeLocation": null,
+            "surname": "Thesiya",
+            "businessPhones": [
+                "4703950250"
+            ]
+        },
+        {
+            "department": "KnackTek",
+            "displayName": "Hiren Patel",
+            "givenName": "Hiren",
+            "jobTitle": "Accounts Manager",
+            "mail": "hiren@binaryrepublik.com",
+            "userPrincipalName": "hiren@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": "+1 470 395 0230",
+            "surname": "Patel",
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "Hitesh Kidecha",
+            "givenName": "Hitesh",
+            "jobTitle": "Software Developer",
+            "mail": "hitesh.kidecha@binaryrepublik.com",
+            "userPrincipalName": "hitesh.kidecha@binaryrepublik.com",
+            "mobilePhone": "9428376522",
+            "officeLocation": null,
+            "surname": "Kidecha",
+            "businessPhones": [
+                "4703950250 (EXT 269)"
+            ]
+        },
+        {
+            "department": null,
+            "displayName": "hpatel",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "hpatel@notalvision.com",
+            "userPrincipalName": "hpatel_notalvision.com#EXT#@BinaryRepublik516.onmicrosoft.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "iPad2 (old)",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "ipad2@binaryrepublik.com",
+            "userPrincipalName": "ipad2@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "iPad Pro (2018)",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "ipadpro@binaryrepublik.com",
+            "userPrincipalName": "ipadpro@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "Ivanshu Agrawal",
+            "givenName": "Ivanshu",
+            "jobTitle": "Sr. Programmer Analyst",
+            "mail": "ivanshu.agrawal@binaryrepublik.com",
+            "userPrincipalName": "ivanshu.agrawal@binaryrepublik.com",
+            "mobilePhone": "9429024393",
+            "officeLocation": null,
+            "surname": "Agrawal",
+            "businessPhones": [
+                "4703950250"
+            ]
+        },
+        {
+            "department": "IT",
+            "displayName": "Jagruti Aswani",
+            "givenName": "Jagruti",
+            "jobTitle": "Software Developer",
+            "mail": "jagruti.aswani@binaryrepublik.com",
+            "userPrincipalName": "jagruti.aswani@binaryrepublik.com",
+            "mobilePhone": "7284980342",
+            "officeLocation": null,
+            "surname": "Aswani",
+            "businessPhones": [
+                "4703950250"
+            ]
+        },
+        {
+            "department": "Business Development",
+            "displayName": "Jaldeep Patel",
+            "givenName": "Jaldeep",
+            "jobTitle": "Director - Business Development",
+            "mail": "jaldeep.patel@binaryrepublik.com",
+            "userPrincipalName": "jaldeep.patel@binaryrepublik.com",
+            "mobilePhone": "+91 7567133666",
+            "officeLocation": null,
+            "surname": "Patel",
+            "businessPhones": [
+                "+1 6789608003"
+            ]
+        },
+        {
+            "department": null,
+            "displayName": "Janniek Starren",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "janniek.starren@sharepointgurus.net",
+            "userPrincipalName": "janniek.starren_sharepointgurus.net#EXT#@BinaryRepublik516.onmicrosoft.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "Jay Pankhania",
+            "givenName": "Jay",
+            "jobTitle": "Intern",
+            "mail": "jay.pankhania@binaryrepublik.com",
+            "userPrincipalName": "jay.pankhania@binaryrepublik.com",
+            "mobilePhone": "9409350118",
+            "officeLocation": null,
+            "surname": "Pankhania",
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "Jay Shah",
+            "givenName": "Jay",
+            "jobTitle": "Software Developer",
+            "mail": "jay.shah@binaryrepublik.com",
+            "userPrincipalName": "jay.shah@binaryrepublik.com",
+            "mobilePhone": "9033726375",
+            "officeLocation": null,
+            "surname": "Shah",
+            "businessPhones": [
+                "4703950250"
+            ]
+        },
+        {
+            "department": "IT",
+            "displayName": "Jayesh Agraval",
+            "givenName": "Jayesh",
+            "jobTitle": "Software Developer",
+            "mail": "jayesh.agraval@binaryrepublik.com",
+            "userPrincipalName": "jayesh.agraval@binaryrepublik.com",
+            "mobilePhone": "7874841070",
+            "officeLocation": null,
+            "surname": "Agraval",
+            "businessPhones": [
+                "4703950250"
+            ]
+        },
+        {
+            "department": "IT",
+            "displayName": "Jayraj Chhaya",
+            "givenName": "Jayraj",
+            "jobTitle": "Trainee Developer",
+            "mail": "jayraj.chhaya@binaryrepublik.com",
+            "userPrincipalName": "jayraj.chhaya@binaryrepublik.com",
+            "mobilePhone": "7779098944",
+            "officeLocation": null,
+            "surname": "Chhaya",
+            "businessPhones": []
+        },
+        {
+            "department": null,
+            "displayName": "Joe Bardi",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "Jbardi@frankcrum.com",
+            "userPrincipalName": "Jbardi_frankcrum.com#EXT#@BinaryRepublik516.onmicrosoft.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": null,
+            "displayName": "jeel.aswani@gmail.com",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "jeel.aswani@gmail.com",
+            "userPrincipalName": "jeel.aswani_gmail.com#EXT#@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "Jignesh Joshi",
+            "givenName": "Jignesh",
+            "jobTitle": "Software Developer",
+            "mail": "jignesh.joshi@binaryrepublik.com",
+            "userPrincipalName": "jignesh.joshi@binaryrepublik.com",
+            "mobilePhone": "9601012437",
+            "officeLocation": null,
+            "surname": "Joshi",
+            "businessPhones": [
+                "4703950250"
+            ]
+        },
+        {
+            "department": "IT",
+            "displayName": "Jinesh Kaneriya",
+            "givenName": "Jinesh",
+            "jobTitle": "Software Developer",
+            "mail": "jinesh.kaneriya@binaryrepublik.com",
+            "userPrincipalName": "jinesh.kaneriya@binaryrepublik.com",
+            "mobilePhone": "7878209094",
+            "officeLocation": null,
+            "surname": "Kaneriya",
+            "businessPhones": [
+                "4703950250"
+            ]
+        },
+        {
+            "department": null,
+            "displayName": "jon.rolfseng",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "jon.rolfseng@frontmgt.no",
+            "userPrincipalName": "jon.rolfseng_frontmgt.no#EXT#@BinaryRepublik516.onmicrosoft.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": null,
+            "displayName": "Jørgen Austheim Person",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "jorgen.person@viewledger.com",
+            "userPrincipalName": "jorgen.person_viewledger.com#EXT#@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": null,
+            "displayName": "jozef.huba",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "Jozef.huba@fluidogroup.com",
+            "userPrincipalName": "jozef.huba_fluidogroup.com#EXT#@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": null,
+            "displayName": "Justin Thomason",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "justin@axcendconsulting.com",
+            "userPrincipalName": "justin_axcendconsulting.com#EXT#@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": "QA",
+            "displayName": "Karishma Mehta",
+            "givenName": "Karishma",
+            "jobTitle": "QA",
+            "mail": "karishma.mehta@binaryrepublik.com",
+            "userPrincipalName": "karishma.mehta@binaryrepublik.com",
+            "mobilePhone": "9427326161",
+            "officeLocation": null,
+            "surname": "Mehta",
+            "businessPhones": []
+        },
+        {
+            "department": "Business Development",
+            "displayName": "Kartik Gajjar",
+            "givenName": "Kartik",
+            "jobTitle": "Business Development Executive",
+            "mail": "kartik.gajjar@binaryrepublik.com",
+            "userPrincipalName": "kartik.gajjar@binaryrepublik.com",
+            "mobilePhone": "7802870610",
+            "officeLocation": "+1 470 395 0250",
+            "surname": "Gajjar",
+            "businessPhones": []
+        },
+        {
+            "department": null,
+            "displayName": "Ketan",
+            "givenName": "Ketan",
+            "jobTitle": "SiteCore Consultant",
+            "mail": "ketan@binaryrepublik.com",
+            "userPrincipalName": "ketan@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": null,
+            "displayName": "Ketul Patel",
+            "givenName": "Ketul",
+            "jobTitle": null,
+            "mail": "ketul@binaryrepublik.com",
+            "userPrincipalName": "ketul@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": "Patel",
+            "businessPhones": []
+        },
+        {
+            "department": null,
+            "displayName": "Keyur Khandel",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "keyurk@sharepointgurus.net",
+            "userPrincipalName": "keyurk_sharepointgurus.net#EXT#@BinaryRepublik516.onmicrosoft.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "Kishan Zalariya",
+            "givenName": "Kishan",
+            "jobTitle": "Jr. Software Developer",
+            "mail": "kishan.zalariya@binaryrepublik.com",
+            "userPrincipalName": "kishan.zalariya@binaryrepublik.com",
+            "mobilePhone": "7600631363",
+            "officeLocation": null,
+            "surname": "Zalariya",
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "Knut Relbe-Moe",
+            "givenName": "Knut",
+            "jobTitle": "Partner Manager",
+            "mail": "knut@knowledgepeople.no",
+            "userPrincipalName": "knut_knowledgepeople.no#EXT#@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": "Relbe-Moe",
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "Krishna Patel",
+            "givenName": "Krishna",
+            "jobTitle": "Salesforce Developer",
+            "mail": "krishna.patel@binaryrepublik.com",
+            "userPrincipalName": "krishna.patel@binaryrepublik.com",
+            "mobilePhone": "8980916961",
+            "officeLocation": null,
+            "surname": "Patel",
+            "businessPhones": [
+                "4703950250"
+            ]
+        },
+        {
+            "department": null,
+            "displayName": "Bhushan, Krishna",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "krishnab@cdmsmith.com",
+            "userPrincipalName": "krishnab_cdmsmith.com#EXT#@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "Krunal Bihola",
+            "givenName": "Krunal",
+            "jobTitle": "Software Developer",
+            "mail": "krunal.bihola@binaryrepublik.com",
+            "userPrincipalName": "krunal.bihola@binaryrepublik.com",
+            "mobilePhone": "8155053543",
+            "officeLocation": null,
+            "surname": "Bihola",
+            "businessPhones": [
+                "4703950250"
+            ]
+        },
+        {
+            "department": "IT",
+            "displayName": "Krunal Gosai",
+            "givenName": "Krunal",
+            "jobTitle": "Software Developer",
+            "mail": "krunal.gosai@binaryrepublik.com",
+            "userPrincipalName": "krunal.gosai@binaryrepublik.com",
+            "mobilePhone": "9979176168",
+            "officeLocation": null,
+            "surname": "Gosai",
+            "businessPhones": [
+                "4703950250"
+            ]
+        },
+        {
+            "department": "IT",
+            "displayName": "Krunal Patel",
+            "givenName": "Krunal",
+            "jobTitle": "QA",
+            "mail": "krunal.patel@binaryrepublik.com",
+            "userPrincipalName": "krunal.patel@binaryrepublik.com",
+            "mobilePhone": "9979458032",
+            "officeLocation": null,
+            "surname": "Patel",
+            "businessPhones": [
+                "4703950250"
+            ]
+        },
+        {
+            "department": null,
+            "displayName": "Krushang Patel",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "krushang.patel@sixconsultingcorp.com",
+            "userPrincipalName": "Krushang.Patel_sixconsultingcorp.com#EXT#@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": null,
+            "displayName": "Kumar, Rahul",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "kumarvr@cdmsmith.com",
+            "userPrincipalName": "kumarvr_cdmsmith.com#EXT#@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "Kunal Soni",
+            "givenName": "Kunal",
+            "jobTitle": "Software Developer",
+            "mail": "kunal.soni@binaryrepublik.com",
+            "userPrincipalName": "kunal.soni@binaryrepublik.com",
+            "mobilePhone": "9662306163",
+            "officeLocation": null,
+            "surname": "Soni",
+            "businessPhones": [
+                "4703950250"
+            ]
+        },
+        {
+            "department": null,
+            "displayName": "linda.sorensen",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "linda.sorensen@frontmgt.no",
+            "userPrincipalName": "linda.sorensen_frontmgt.no#EXT#@BinaryRepublik516.onmicrosoft.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "Love Thakker",
+            "givenName": "Love",
+            "jobTitle": "Lead Developer",
+            "mail": "love.thakker@binaryrepublik.com",
+            "userPrincipalName": "love.thakker@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": "Thakker",
+            "businessPhones": [
+                "4703950250 (EXT 266)"
+            ]
+        },
+        {
+            "department": null,
+            "displayName": "Luthfur Miah",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "luthfurm@frankcrum.com",
+            "userPrincipalName": "luthfurm_frankcrum.com#EXT#@BinaryRepublik516.onmicrosoft.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "Madhvi Yadav",
+            "givenName": "Madhvi",
+            "jobTitle": "Trainee Developer",
+            "mail": "madhvi.yadav@binaryrepublik.com",
+            "userPrincipalName": "madhvi.yadav@binaryrepublik.com",
+            "mobilePhone": "8905544428",
+            "officeLocation": null,
+            "surname": "Yadav",
+            "businessPhones": [
+                "4703950250"
+            ]
+        },
+        {
+            "department": null,
+            "displayName": "Magnus Aase",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "magnus.aase@hux.no",
+            "userPrincipalName": "magnus.aase_hux.no#EXT#@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "Manish Mayatra",
+            "givenName": "Manish",
+            "jobTitle": "Jr. Software Developer",
+            "mail": "manish.mayatra@binaryrepublik.com",
+            "userPrincipalName": "manish.mayatra@binaryrepublik.com",
+            "mobilePhone": "9033424319",
+            "officeLocation": null,
+            "surname": "Mayatra",
+            "businessPhones": []
+        },
+        {
+            "department": "Business Development",
+            "displayName": "Meet Pandya",
+            "givenName": "Meet",
+            "jobTitle": "Business Development Executive",
+            "mail": "meet.pandya@binaryrepublik.com",
+            "userPrincipalName": "meet.pandya@binaryrepublik.com",
+            "mobilePhone": "8849123596",
+            "officeLocation": null,
+            "surname": "Pandya",
+            "businessPhones": []
+        },
+        {
+            "department": null,
+            "displayName": "Michael Roberts",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "michael.roberts@sixconsultingcorp.com",
+            "userPrincipalName": "michael.roberts_sixconsultingcorp.com#EXT#@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "Mihir Kotak",
+            "givenName": "Mihir",
+            "jobTitle": "Jr. Software Developer",
+            "mail": "mihir.kotak@binaryrepublik.com",
+            "userPrincipalName": "mihir.kotak@binaryrepublik.com",
+            "mobilePhone": "9586648333",
+            "officeLocation": null,
+            "surname": "Kotak",
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "Mitali Desai",
+            "givenName": "Mitali",
+            "jobTitle": "Software Developer",
+            "mail": "mitali.desai@binaryrepublik.com",
+            "userPrincipalName": "mitali.desai@binaryrepublik.com",
+            "mobilePhone": "9825744885",
+            "officeLocation": null,
+            "surname": "Desai",
+            "businessPhones": [
+                "4703950250"
+            ]
+        },
+        {
+            "department": "IT",
+            "displayName": "Mitraj Goletar",
+            "givenName": "Mitraj",
+            "jobTitle": "Salesforce Developer",
+            "mail": "mitraj.goletar@binaryrepublik.com",
+            "userPrincipalName": "mitraj.goletar@binaryrepublik.com",
+            "mobilePhone": "9408611595",
+            "officeLocation": null,
+            "surname": "Goletar",
+            "businessPhones": [
+                "4703950250"
+            ]
+        },
+        {
+            "department": "IT",
+            "displayName": "Mohammadasif Siddiqui",
+            "givenName": "Mohammadasif",
+            "jobTitle": "Intern",
+            "mail": "mohammadasif.siddiqui@binaryrepublik.com",
+            "userPrincipalName": "mohammadasif.siddiqui@binaryrepublik.com",
+            "mobilePhone": "8511735312",
+            "officeLocation": null,
+            "surname": "Siddiqui",
+            "businessPhones": [
+                "8511735312"
+            ]
+        },
+        {
+            "department": null,
+            "displayName": "Morten Weber Bergesen",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "morten.bergesen@viewledger.com",
+            "userPrincipalName": "morten.bergesen_viewledger.com#EXT#@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "Navneet Bhimani",
+            "givenName": "Navneet",
+            "jobTitle": "Software Developer",
+            "mail": "navneet.bhimani@binaryrepublik.com",
+            "userPrincipalName": "navneet.bhimani@binaryrepublik.com",
+            "mobilePhone": "8980718455",
+            "officeLocation": null,
+            "surname": "Bhimani",
+            "businessPhones": [
+                "4703950250"
+            ]
+        },
+        {
+            "department": null,
+            "displayName": "nayan dadwani",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "nayan.dadvani@outlook.com",
+            "userPrincipalName": "nayan.dadvani_outlook.com#EXT#@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "Nayan Dadwani",
+            "givenName": "Nayan",
+            "jobTitle": "Software Developer",
+            "mail": "nayan.dadwani@binaryrepublik.com",
+            "userPrincipalName": "nayan.dadwani@binaryrepublik.com",
+            "mobilePhone": "9574221616",
+            "officeLocation": null,
+            "surname": "Dadwani",
+            "businessPhones": [
+                "4703950250"
+            ]
+        },
+        {
+            "department": null,
+            "displayName": "NAYAN DADVANI",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "nayan.dadwani1616@gmail.com",
+            "userPrincipalName": "nayan.dadwani1616_gmail.com#EXT#@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "Neha Chauhan",
+            "givenName": "Neha",
+            "jobTitle": "Software Developer",
+            "mail": "neha.chauhan@binaryrepublik.com",
+            "userPrincipalName": "neha.chauhan@binaryrepublik.com",
+            "mobilePhone": "8460485303",
+            "officeLocation": null,
+            "surname": "Chauhan",
+            "businessPhones": [
+                "4703950250"
+            ]
+        },
+        {
+            "department": "IT",
+            "displayName": "Nehanshu Koshti",
+            "givenName": "Nehanshu",
+            "jobTitle": "Software Developer",
+            "mail": "nehanshu.koshti@binaryrepublik.com",
+            "userPrincipalName": "nehanshu.koshti@binaryrepublik.com",
+            "mobilePhone": "8238495263",
+            "officeLocation": null,
+            "surname": "Koshti",
+            "businessPhones": [
+                "4703950250"
+            ]
+        },
+        {
+            "department": "IT",
+            "displayName": "Nidhi Gadhia",
+            "givenName": "Nidhi",
+            "jobTitle": "Software Developer",
+            "mail": "nidhi.gadhia@binaryrepublik.com",
+            "userPrincipalName": "nidhi.gadhia@binaryrepublik.com",
+            "mobilePhone": "7878403830",
+            "officeLocation": null,
+            "surname": "Gadhia",
+            "businessPhones": [
+                "7878403830"
+            ]
+        },
+        {
+            "department": "HR",
+            "displayName": "Nirav Chauhan",
+            "givenName": "Nirav",
+            "jobTitle": "Recruiter",
+            "mail": "nirav.chauhan@binaryrepublik.com",
+            "userPrincipalName": "nirav.chauhan@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": "Chauhan",
+            "businessPhones": []
+        },
+        {
+            "department": null,
+            "displayName": "Nirav Chauhan",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "nirav.chauhan@sixconsultingcorp.com",
+            "userPrincipalName": "Nirav.Chauhan_sixconsultingcorp.com#EXT#@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "Nisha Regil",
+            "givenName": "Nisha",
+            "jobTitle": "Principal Developer",
+            "mail": "nisha@binaryrepublik.com",
+            "userPrincipalName": "nisha@binaryrepublik.com",
+            "mobilePhone": "9427901837",
+            "officeLocation": null,
+            "surname": "Regil",
+            "businessPhones": [
+                "4703950250 (EXT 252)"
+            ]
+        },
+        {
+            "department": "IT",
+            "displayName": "Nishit Panchal",
+            "givenName": "Nishit",
+            "jobTitle": "Web Designer",
+            "mail": "nishit.panchal@binaryrepublik.com",
+            "userPrincipalName": "nishit.panchal@binaryrepublik.com",
+            "mobilePhone": "7698200989",
+            "officeLocation": null,
+            "surname": "Panchal",
+            "businessPhones": [
+                "4703950250"
+            ]
+        },
+        {
+            "department": null,
+            "displayName": "Øyvind Lislevatn",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "oyvind.lislevatn@tussa.no",
+            "userPrincipalName": "oyvind.lislevatn_tussa.no#EXT#@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "Paridha Oza",
+            "givenName": "Paridha",
+            "jobTitle": "Software Developer",
+            "mail": "paridha.oza@binaryrepublik.com",
+            "userPrincipalName": "paridha.oza@binaryrepublik.com",
+            "mobilePhone": "9586138852",
+            "officeLocation": null,
+            "surname": "Oza",
+            "businessPhones": [
+                "9586138852"
+            ]
+        },
+        {
+            "department": "Knacktek",
+            "displayName": "Parsil Joshi",
+            "givenName": "Parsil",
+            "jobTitle": "Accounts Manager",
+            "mail": "parsil.joshi@binaryrepublik.com",
+            "userPrincipalName": "parsil.joshi@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": "Joshi",
+            "businessPhones": [
+                "+1(470) 395-0232"
+            ]
+        },
+        {
+            "department": "IT",
+            "displayName": "Parth Bhuta",
+            "givenName": "Parth",
+            "jobTitle": "Sr. UI/UX Designer",
+            "mail": "parth.bhuta@binaryrepublik.com",
+            "userPrincipalName": "parth.bhuta@binaryrepublik.com",
+            "mobilePhone": "9601393969",
+            "officeLocation": null,
+            "surname": "Bhuta",
+            "businessPhones": [
+                "4703950250"
+            ]
+        },
+        {
+            "department": "IT",
+            "displayName": "Parth Thakkar",
+            "givenName": "Parth",
+            "jobTitle": "Trainee Developer",
+            "mail": "parth.thakkar@binaryrepublik.com",
+            "userPrincipalName": "parth.thakkar@binaryrepublik.com",
+            "mobilePhone": "7600005348",
+            "officeLocation": null,
+            "surname": "Thakkar",
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "Parthesh Poriya",
+            "givenName": "Parthesh",
+            "jobTitle": "Salesforce Developer",
+            "mail": "parthesh.poriya@binaryrepublik.com",
+            "userPrincipalName": "parthesh.poriya@binaryrepublik.com",
+            "mobilePhone": "8732945783",
+            "officeLocation": null,
+            "surname": "Poriya",
+            "businessPhones": [
+                "4703950250"
+            ]
+        },
+        {
+            "department": "IT",
+            "displayName": "Pavan Asknani",
+            "givenName": "Pavan",
+            "jobTitle": "Software Developer",
+            "mail": "pavan.asknani@binaryrepublik.com",
+            "userPrincipalName": "pavan.asknani@binaryrepublik.com",
+            "mobilePhone": "9998694936",
+            "officeLocation": null,
+            "surname": "Asknani",
+            "businessPhones": [
+                "4703950250"
+            ]
+        },
+        {
+            "department": null,
+            "displayName": "piotr.frukacz@fluidogroup.com",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "piotr.frukacz@fluidogroup.com",
+            "userPrincipalName": "piotr.frukacz_fluidogroup.com#EXT#@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": null,
+            "displayName": "Piyush Patel",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "Piyush.patel@sixconsultingcorp.com",
+            "userPrincipalName": "piyush.patel_sixconsultingcorp.com#EXT#@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "Piyush Patel",
+            "givenName": "Piyush",
+            "jobTitle": "Project Manager",
+            "mail": "piyush@BinaryRepublik516.onmicrosoft.com",
+            "userPrincipalName": "piyush@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": "BR",
+            "surname": "Patell",
+            "businessPhones": [
+                "4703950250 (EXT 263)"
+            ]
+        },
+        {
+            "department": null,
+            "displayName": "Practical Test User",
+            "givenName": "Practical",
+            "jobTitle": null,
+            "mail": null,
+            "userPrincipalName": "practical@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": "User",
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "Praful Soni",
+            "givenName": "Praful",
+            "jobTitle": "Software Developer",
+            "mail": "praful.soni@binaryrepublik.com",
+            "userPrincipalName": "praful.soni@binaryrepublik.com",
+            "mobilePhone": "9979538076",
+            "officeLocation": null,
+            "surname": "Soni",
+            "businessPhones": [
+                "4703950250"
+            ]
+        },
+        {
+            "department": null,
+            "displayName": "Pranav Pathak",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "pranav.pathak@sixconsultingcorp.com",
+            "userPrincipalName": "Pranav.Pathak_sixconsultingcorp.com#EXT#@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "Pratik Shah",
+            "givenName": "Pratik",
+            "jobTitle": "Director, Microsoft Practice",
+            "mail": "pratik@binaryrepublik.com",
+            "userPrincipalName": "pratik@binaryrepublik.com",
+            "mobilePhone": "+91 9638874990",
+            "officeLocation": "(02717) 490592",
+            "surname": "Shah",
+            "businessPhones": [
+                "+1 4703950251"
+            ]
+        },
+        {
+            "department": "IT",
+            "displayName": "Priti Bhansali",
+            "givenName": "Priti",
+            "jobTitle": "Trainee Developer",
+            "mail": null,
+            "userPrincipalName": "priti.bhansali@binaryrepublik.com",
+            "mobilePhone": "8866338312",
+            "officeLocation": null,
+            "surname": "Bhansali",
+            "businessPhones": []
+        },
+        {
+            "department": null,
+            "displayName": "Pushpendra Kushwah",
+            "givenName": "Pushpendra",
+            "jobTitle": null,
+            "mail": "pushpendra.kushwah@binaryrepublik.com",
+            "userPrincipalName": "pushpendra.kushwah@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": "Kushwah",
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "Raj Bhalani",
+            "givenName": "Raj",
+            "jobTitle": "Software Developer",
+            "mail": "raj.bhalani@binaryrepublik.com",
+            "userPrincipalName": "raj.bhalani@binaryrepublik.com",
+            "mobilePhone": "9426317289",
+            "officeLocation": null,
+            "surname": "Bhalani",
+            "businessPhones": [
+                "4703950250"
+            ]
+        },
+        {
+            "department": "IT",
+            "displayName": "Raj Saraiya",
+            "givenName": "Raj",
+            "jobTitle": "Software Developer",
+            "mail": "raj.saraiya@binaryrepublik.com",
+            "userPrincipalName": "raj.saraiya@binaryrepublik.com",
+            "mobilePhone": "8401262429",
+            "officeLocation": null,
+            "surname": "Saraiya",
+            "businessPhones": [
+                "4703950250"
+            ]
+        },
+        {
+            "department": "IT",
+            "displayName": "Rajan Mrug",
+            "givenName": "Rajan",
+            "jobTitle": "Team Lead",
+            "mail": "rajan.mrug@binaryrepublik.com",
+            "userPrincipalName": "rajan.mrug@binaryrepublik.com",
+            "mobilePhone": "9737797733",
+            "officeLocation": null,
+            "surname": "Mrug",
+            "businessPhones": [
+                "4703950250"
+            ]
+        },
+        {
+            "department": "IT",
+            "displayName": "Ramesh Vaghela",
+            "givenName": "Ramesh",
+            "jobTitle": "Software Developer",
+            "mail": "ramesh.vaghela@binaryrepublik.com",
+            "userPrincipalName": "ramesh.vaghela@binaryrepublik.com",
+            "mobilePhone": "9724644873",
+            "officeLocation": null,
+            "surname": "Vaghela",
+            "businessPhones": [
+                "4703950250"
+            ]
+        },
+        {
+            "department": "IT",
+            "displayName": "Rekha Shah",
+            "givenName": "Rekha",
+            "jobTitle": "Lead Consultant",
+            "mail": "rekha@binaryrepublik.com",
+            "userPrincipalName": "rekha@binaryrepublik.com",
+            "mobilePhone": "8487051309",
+            "officeLocation": null,
+            "surname": "Shah",
+            "businessPhones": [
+                "4703950250 (EXT 264)"
+            ]
+        },
+        {
+            "department": null,
+            "displayName": "Rekha Shah",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "rekhajshah@live.com",
+            "userPrincipalName": "rekhajshah_live.com#EXT#@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "Richa Somani",
+            "givenName": "Richa",
+            "jobTitle": "Software Developer",
+            "mail": "richa.somani@binaryrepublik.com",
+            "userPrincipalName": "richa.somani@binaryrepublik.com",
+            "mobilePhone": "7779082899",
+            "officeLocation": null,
+            "surname": "Somani",
+            "businessPhones": [
+                "4703950250"
+            ]
+        },
+        {
+            "department": "IT",
+            "displayName": "Riddhi Maheta",
+            "givenName": "Riddhi",
+            "jobTitle": "Trainee Developer",
+            "mail": "riddhi.maheta@binaryrepublik.com",
+            "userPrincipalName": "riddhi.maheta@binaryrepublik.com",
+            "mobilePhone": "6351473241",
+            "officeLocation": null,
+            "surname": "Maheta",
+            "businessPhones": [
+                "4703950250"
+            ]
+        },
+        {
+            "department": "IT",
+            "displayName": "Rishi Kansara",
+            "givenName": "Rishi",
+            "jobTitle": "Jr. Salesforce Developer",
+            "mail": "rishi.kansara@binaryrepublik.com",
+            "userPrincipalName": "rishi.kansara@binaryrepublik.com",
+            "mobilePhone": "9173036377",
+            "officeLocation": null,
+            "surname": "Kansara",
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "Rohan Mistry",
+            "givenName": "Rohan",
+            "jobTitle": "Sr. Software Developer",
+            "mail": "rohan.mistry@binaryrepublik.com",
+            "userPrincipalName": "rohan.mistry@binaryrepublik.com",
+            "mobilePhone": "8866032474",
+            "officeLocation": null,
+            "surname": "Mistry",
+            "businessPhones": [
+                "4703950250"
+            ]
+        },
+        {
+            "department": null,
+            "displayName": "Rohan Mistry",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "rohan@brsupport.onmicrosoft.com",
+            "userPrincipalName": "rohan_brsupport.onmicrosoft.com#EXT#@BinaryRepublik516.onmicrosoft.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": null,
+            "displayName": "Romeyn, Eliza D.",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "romeyned@cdmsmith.com",
+            "userPrincipalName": "romeyned_cdmsmith.com#EXT#@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "Roshani Gandhi",
+            "givenName": "Roshani",
+            "jobTitle": "Software Developer",
+            "mail": "roshani.gandhi@binaryrepublik.com",
+            "userPrincipalName": "roshani.gandhi@binaryrepublik.com",
+            "mobilePhone": "7678082281",
+            "officeLocation": null,
+            "surname": "Gandhi",
+            "businessPhones": [
+                "4703950250"
+            ]
+        },
+        {
+            "department": null,
+            "displayName": "Rune Andre Øye",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "rune.andre.oye@tussa.no",
+            "userPrincipalName": "rune.andre.oye_tussa.no#EXT#@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "Rutu Gadhethariya",
+            "givenName": "Rutu",
+            "jobTitle": "Software Developer",
+            "mail": "rutu.gadhethariya@binaryrepublik.com",
+            "userPrincipalName": "rutu.gadhethariya@binaryrepublik.com",
+            "mobilePhone": "9033806023",
+            "officeLocation": null,
+            "surname": "Gadhethariya",
+            "businessPhones": [
+                "4703950250"
+            ]
+        },
+        {
+            "department": "IT",
+            "displayName": "Sabir Khorajiya",
+            "givenName": "Sabir",
+            "jobTitle": "UI/UX Designer",
+            "mail": "sabir.khorajiya@binaryrepublik.com",
+            "userPrincipalName": "sabir.khorajiya@binaryrepublik.com",
+            "mobilePhone": "8511454649",
+            "officeLocation": null,
+            "surname": "Khorajiya",
+            "businessPhones": [
+                "4703950250"
+            ]
+        },
+        {
+            "department": null,
+            "displayName": "Sabahud-Din Chughtai",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "sach03@lillestrom.kommune.no",
+            "userPrincipalName": "sach03_lillestrom.kommune.no#EXT#@BinaryRepublik516.onmicrosoft.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "Sagar Vishwakarma",
+            "givenName": "Sagar",
+            "jobTitle": "Jr. Software Developer",
+            "mail": "sagar.vishwakarma@binaryrepublik.com",
+            "userPrincipalName": "sagar.vishwakarma@binaryrepublik.com",
+            "mobilePhone": "6362225038",
+            "officeLocation": null,
+            "surname": "Vishwakarma",
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "Sahil Patel",
+            "givenName": "Sahil",
+            "jobTitle": "Data Scientist",
+            "mail": "sahil.patel@binaryrepublik.com",
+            "userPrincipalName": "sahil.patel@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": "+1 (470) 395 0250",
+            "surname": "Patel",
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "Samir Khimani",
+            "givenName": "Samir",
+            "jobTitle": "Software Developer",
+            "mail": "samir.khimani@binaryrepublik.com",
+            "userPrincipalName": "samir.khimani@binaryrepublik.com",
+            "mobilePhone": "9687224469",
+            "officeLocation": null,
+            "surname": "Khimani",
+            "businessPhones": [
+                "4703950250"
+            ]
+        },
+        {
+            "department": "IT",
+            "displayName": "Sanjay Makwana",
+            "givenName": "Sanjay",
+            "jobTitle": "Lead Developer",
+            "mail": "sanjay.makwana@binaryrepublik.com",
+            "userPrincipalName": "sanjay.makwana@binaryrepublik.com",
+            "mobilePhone": "9687136541",
+            "officeLocation": null,
+            "surname": "Makwana",
+            "businessPhones": [
+                "4703950250"
+            ]
+        },
+        {
+            "department": null,
+            "displayName": "sanjay makwana",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "sanjaym12089@gmail.com",
+            "userPrincipalName": "sanjaym12089_gmail.com#EXT#@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": "HR",
+            "displayName": "Sankalp Trivedi",
+            "givenName": "Sankalp",
+            "jobTitle": "Accounts Executive",
+            "mail": "sankalp.trivedi@binaryrepublik.com",
+            "userPrincipalName": "sankalp.trivedi@binaryrepublik.com",
+            "mobilePhone": "7567777095",
+            "officeLocation": "+1 470 395 0250",
+            "surname": "Trivedi",
+            "businessPhones": []
+        },
+        {
+            "department": null,
+            "displayName": "Sankalp Trivedi",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "sankalp.trivedi@sixconsultingcorp.com",
+            "userPrincipalName": "sankalp.trivedi_sixconsultingcorp.com#EXT#@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": "Business Development",
+            "displayName": "Saswato Chatterjee",
+            "givenName": "Saswato",
+            "jobTitle": "BD Executive - US Shift",
+            "mail": "saswato.chatterjee@binaryrepublik.com",
+            "userPrincipalName": "saswato.chatterjee@binaryrepublik.com",
+            "mobilePhone": "9825084191",
+            "officeLocation": "+1 470 395 0250",
+            "surname": "Chatterjee",
+            "businessPhones": []
+        },
+        {
+            "department": null,
+            "displayName": "Savita Komanduri",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "savita.komanduri@sixconsultingcorp.com",
+            "userPrincipalName": "savita.komanduri_sixconsultingcorp.com#EXT#@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": null,
+            "displayName": "Sebastian Engdahl",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "sebastian.engdahl@viewledger.com",
+            "userPrincipalName": "sebastian.engdahl_viewledger.com#EXT#@BinaryRepublik516.onmicrosoft.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": null,
+            "displayName": "Shail Deliwala",
+            "givenName": "Shail",
+            "jobTitle": null,
+            "mail": "shail.deliwala@binaryrepublik.com",
+            "userPrincipalName": "shail.deliwala@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": "Deliwala",
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "Shivangi Rajde",
+            "givenName": "Shivangi",
+            "jobTitle": "Software Developer",
+            "mail": "shivangi.rajde@binaryrepublik.com",
+            "userPrincipalName": "shivangi.rajde@binaryrepublik.com",
+            "mobilePhone": "9558828429",
+            "officeLocation": null,
+            "surname": "Rajde",
+            "businessPhones": [
+                "4703950250"
+            ]
+        },
+        {
+            "department": "IT",
+            "displayName": "Shreya Choithani",
+            "givenName": "Shreya",
+            "jobTitle": "Salesforce Developer",
+            "mail": "shreya.choithani@binaryrepublik.com",
+            "userPrincipalName": "shreya.choithani@binaryrepublik.com",
+            "mobilePhone": "9712544585",
+            "officeLocation": null,
+            "surname": "Choithani",
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "Shriraj Gohil",
+            "givenName": "Shriraj",
+            "jobTitle": "Software Developer",
+            "mail": "shriraj.gohil@binaryrepublik.com",
+            "userPrincipalName": "shriraj.gohil@binaryrepublik.com",
+            "mobilePhone": "9998022067",
+            "officeLocation": null,
+            "surname": "Gohil",
+            "businessPhones": [
+                "4703950250"
+            ]
+        },
+        {
+            "department": null,
+            "displayName": "Siddharaj Sarvaiya",
+            "givenName": "Siddaharaj",
+            "jobTitle": null,
+            "mail": "siddharaj.sarvaiya@binaryrepublik.com",
+            "userPrincipalName": "Siddharaj.sarvaiya@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": "Sarvaiya",
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "Smit Shah",
+            "givenName": "Smit",
+            "jobTitle": "Sr. Software Developer",
+            "mail": "smit.shah@binaryrepublik.com",
+            "userPrincipalName": "smit.shah@binaryrepublik.com",
+            "mobilePhone": "9429182405;7984186510",
+            "officeLocation": null,
+            "surname": "Shah",
+            "businessPhones": [
+                "4703950250"
+            ]
+        },
+        {
+            "department": null,
+            "displayName": "sp_admin",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "sp_admin@docsnode.com",
+            "userPrincipalName": "sp_admin_docsnode.com#EXT#@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": null,
+            "displayName": "Sukhdev Zala",
+            "givenName": "Sukhdev",
+            "jobTitle": null,
+            "mail": "sukhdev.zala@binaryrepublik.com",
+            "userPrincipalName": "sukhdev.zala@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": "Zala",
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "Sunil Daraji",
+            "givenName": "Sunil",
+            "jobTitle": "Lead Developer",
+            "mail": "sunil.daraji@binaryrepublik.com",
+            "userPrincipalName": "sunil.daraji@binaryrepublik.com",
+            "mobilePhone": "7359826536",
+            "officeLocation": null,
+            "surname": "Daraji",
+            "businessPhones": [
+                "4703950250"
+            ]
+        },
+        {
+            "department": "IT",
+            "displayName": "BR Support",
+            "givenName": "BR",
+            "jobTitle": "BR Support",
+            "mail": "support@binaryrepublik.com",
+            "userPrincipalName": "support@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": "Support",
+            "businessPhones": []
+        },
+        {
+            "department": null,
+            "displayName": "Support Cloudev",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "support@cloudev.com.au",
+            "userPrincipalName": "support_cloudev.com.au#EXT#@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": null,
+            "displayName": "On-Premises Directory Synchronization Service Account",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": null,
+            "userPrincipalName": "Sync_BRSERVER_5abc7faf4e7e@BinaryRepublik516.onmicrosoft.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": null,
+            "displayName": "On-Premises Directory Synchronization Service Account",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": null,
+            "userPrincipalName": "Sync_BRVM252_c800dfda84e5@BinaryRepublik516.onmicrosoft.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "Lenovo Tab",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "tab@binaryrepublik.com",
+            "userPrincipalName": "tab@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": "Business Development",
+            "displayName": "Tanvi Karia",
+            "givenName": "Tanvi",
+            "jobTitle": "Business Development Executive",
+            "mail": "tanvi.karia@binaryrepublik.com",
+            "userPrincipalName": "tanvi.karia@binaryrepublik.com",
+            "mobilePhone": "8200294704",
+            "officeLocation": null,
+            "surname": "Karia",
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "Tejal Kalal",
+            "givenName": "Tejal",
+            "jobTitle": "Software Developer",
+            "mail": "tejal.kalal@binaryrepublik.com",
+            "userPrincipalName": "tejal.kalal@binaryrepublik.com",
+            "mobilePhone": "9426918447",
+            "officeLocation": null,
+            "surname": "Kalal",
+            "businessPhones": [
+                "4703950250"
+            ]
+        },
+        {
+            "department": null,
+            "displayName": "Tejas Adeshara",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "tejas.adeshara@sixconsultingcorp.com",
+            "userPrincipalName": "Tejas.Adeshara_sixconsultingcorp.com#EXT#@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": null,
+            "displayName": "Troy Thompson",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "Troy.m.thompson.test@outlook.com",
+            "userPrincipalName": "troy.m.thompson.test_outlook.com#EXT#@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "Umang Parmar",
+            "givenName": "Umang",
+            "jobTitle": "Intern",
+            "mail": "umang.parmar@binaryrepublik.com",
+            "userPrincipalName": "umang.parmar@binaryrepublik.com",
+            "mobilePhone": "9773147440",
+            "officeLocation": null,
+            "surname": "Parmar",
+            "businessPhones": []
+        },
+        {
+            "department": null,
+            "displayName": "Utkarsh Thakkar",
+            "givenName": "Utkarsh",
+            "jobTitle": null,
+            "mail": "utkarsh@binaryrepublik.com",
+            "userPrincipalName": "utkarsh@binaryrepublik.com",
+            "mobilePhone": "+91 9824537893",
+            "officeLocation": null,
+            "surname": "Thakkar",
+            "businessPhones": [
+                "(02717) 298100 "
+            ]
+        },
+        {
+            "department": "IT",
+            "displayName": "Utsav Pabari",
+            "givenName": "Utsav",
+            "jobTitle": "Trainee Developer",
+            "mail": "utsav.pabari@binaryrepublik.com",
+            "userPrincipalName": "utsav.pabari@binaryrepublik.com",
+            "mobilePhone": "9712043243",
+            "officeLocation": null,
+            "surname": "Pabari",
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "Vaibhav Chauhan",
+            "givenName": "Vaibhav",
+            "jobTitle": "Software Developer",
+            "mail": "vaibhav.chauhan@binaryrepublik.com",
+            "userPrincipalName": "vaibhav.chauhan@binaryrepublik.com",
+            "mobilePhone": "9825534978",
+            "officeLocation": null,
+            "surname": "Chauhan",
+            "businessPhones": [
+                "4703950250"
+            ]
+        },
+        {
+            "department": "IT",
+            "displayName": "Vatsal Vaghela",
+            "givenName": "Vatsal",
+            "jobTitle": "Jr. Salesforce Developer",
+            "mail": "vatsal.vaghela@binaryrepublik.com",
+            "userPrincipalName": "vatsal.vaghela@binaryrepublik.com",
+            "mobilePhone": "9429215521",
+            "officeLocation": null,
+            "surname": "Vaghela",
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "Viral Chhatbar",
+            "givenName": "Viral",
+            "jobTitle": "IT Admin",
+            "mail": "viral.chhatbar@binaryrepublik.com",
+            "userPrincipalName": "viral.chhatbar@binaryrepublik.com",
+            "mobilePhone": "9913070689",
+            "officeLocation": null,
+            "surname": "Chhatbar",
+            "businessPhones": [
+                "4703950250"
+            ]
+        },
+        {
+            "department": "IT",
+            "displayName": "Vivek Bheda",
+            "givenName": "Vivek",
+            "jobTitle": "Software Developer",
+            "mail": "vivek.bheda@binaryrepublik.com",
+            "userPrincipalName": "vivek.bheda@binaryrepublik.com",
+            "mobilePhone": "9725570014",
+            "officeLocation": null,
+            "surname": "Bheda",
+            "businessPhones": [
+                "4703950250"
+            ]
+        },
+        {
+            "department": null,
+            "displayName": "Vivek Bhat",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "vivekb@sharepointgurus.net",
+            "userPrincipalName": "vivekb_sharepointgurus.net#EXT#@BinaryRepublik516.onmicrosoft.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": null,
+            "displayName": "Vujcec, Jacquelyn",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "vujcecj@cdmsmith.com",
+            "userPrincipalName": "vujcecj_cdmsmith.com#EXT#@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "Wasim Saiyed",
+            "givenName": "Wasim",
+            "jobTitle": "QA",
+            "mail": "wasim.saiyed@binaryrepublik.com",
+            "userPrincipalName": "wasim.saiyed@binaryrepublik.com",
+            "mobilePhone": "9033548722",
+            "officeLocation": null,
+            "surname": "Saiyed",
+            "businessPhones": [
+                "4703950250"
+            ]
+        },
+        {
+            "department": "IT",
+            "displayName": "Yash Patel",
+            "givenName": "Yash",
+            "jobTitle": "Software Developer",
+            "mail": "yash.patel@binaryrepublik.com",
+            "userPrincipalName": "yash.patel@binaryrepublik.com",
+            "mobilePhone": "8866177432",
+            "officeLocation": null,
+            "surname": "Patel",
+            "businessPhones": [
+                "4703950250"
+            ]
+        },
+        {
+            "department": null,
+            "displayName": "Yuan Yao",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "yuan.yao@sixconsultingcorp.com",
+            "userPrincipalName": "yuan.yao_sixconsultingcorp.com#EXT#@binaryrepublik.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "surname": null,
+            "businessPhones": []
+        },
+        {
+            "department": "IT",
+            "displayName": "Zarana Joshi",
+            "givenName": "Zarana",
+            "jobTitle": "Team Lead",
+            "mail": "zarana@binaryrepublik.com",
+            "userPrincipalName": "zarana@binaryrepublik.com",
+            "mobilePhone": "7016505091",
+            "officeLocation": null,
+            "surname": "Joshi",
+            "businessPhones": [
+                "4703950250 (EXT 268)"
+            ]
+        }
+    ]
+}

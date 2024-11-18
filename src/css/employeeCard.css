@@ -1,0 +1,19 @@
+.logo {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+    border-radius: 80%;
+    border: 1px solid black;
+}
+
+.card-img-top {
+    width: 70px;
+    height: 70px;
+}
+
+.card {
+    box-shadow: 5px 5px 5px lightblue;
+    width: 16rem;
+    height: 19rem;
+    font-size: 11px;
+}
